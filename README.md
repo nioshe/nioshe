@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="./assets/developer-avatar.png" width="220" alt="Illustrated developer working at a laptop in a dark blue workspace" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,50:1e3a8a,100:6d28d9&amp;height=190&amp;section=header&amp;text=ANAS&amp;fontSize=58&amp;fontColor=f8fafc&amp;fontAlignY=38&amp;animation=fadeIn" width="100%" alt="ANAS — animated blue and violet header" />
 
-  # Anas
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2400&amp;pause=2000&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Computer+Science+Student;Software+Engineering+%C2%B7+Full-Stack+Development;Building+AI-Enabled+Applications;Backend+APIs+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Building+%C2%B7+Testing+%C2%B7+Improving" width="100%" alt="Computer Science student focused on software engineering, full-stack development, AI-enabled applications, and backend APIs" />
 
-  ### Computer Science Student | Software Engineering | AI Application Development
+  <br />
 
-  I build full-stack applications and AI-enabled software, with an interest in practical products, backend systems, APIs, and responsible AI integration.
+  <img src="./assets/developer-avatar.png" width="215" alt="Illustrated developer working at a laptop in a dark blue workspace" />
+
+  <p>
+    I build full-stack applications, backend and API systems, and AI-enabled software.<br />
+    I am interested in practical products, reliable application architecture, and responsible AI integration.
+  </p>
 </div>
 
 <img src="./assets/accent-divider.svg" width="100%" alt="" />
@@ -38,19 +43,23 @@
 
 ### [Gusto Restaurant Platform](https://github.com/nioshe/web-Resturant)
 
-A responsive restaurant ordering and operations prototype built with HTML, CSS, JavaScript, and Supabase. It includes a customer-facing menu and cart, dine-in and takeout ordering, reservations, Supabase authentication, an admin dashboard for managing order and reservation statuses, and customer-to-admin messaging.
+> A responsive restaurant ordering and operations prototype built with HTML, CSS, JavaScript, and Supabase. It includes a customer-facing menu and cart, dine-in and takeout ordering, reservations, Supabase authentication, an admin dashboard for managing order and reservation statuses, and customer-to-admin messaging.
 
 `JavaScript` `HTML` `CSS` `Supabase Auth` `PostgreSQL` `REST APIs`
 
+---
+
 ### [Rahla.AI](https://github.com/nioshe/rahla-ai)
 
-A Morocco travel-planning prototype with a modular Node.js and Express API. It demonstrates route-controller-service architecture, trip-planning and appointment workflows, and deterministic recommendation logic. Database persistence and external AI-provider integration are not currently implemented.
+> A Morocco travel-planning prototype with a modular Node.js and Express API. It demonstrates route-controller-service architecture, trip-planning and appointment workflows, and deterministic recommendation logic. Database persistence and external AI-provider integration are not currently implemented.
 
 `JavaScript` `Node.js` `Express` `HTML` `CSS` `REST APIs`
 
+---
+
 ### [C++ Word Scramble and CGPA Experiments](https://github.com/nioshe/cgpa_calculator.cpp)
 
-A learning repository whose primary implementation is a C++17 command-line word-scramble application with difficulty levels, scoring, validation, file operations, leaderboard data, and runtime metrics. The repository also contains an early, incomplete CGPA interface experiment.
+> A learning repository whose primary implementation is a C++17 command-line word-scramble application with difficulty levels, scoring, validation, file operations, leaderboard data, and runtime metrics. The repository also contains an early, incomplete CGPA interface experiment.
 
 `C++17` `STL` `File I/O` `Regular Expressions` `JavaScript`
 
