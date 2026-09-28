@@ -21,6 +21,7 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-0B5CAD?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
@@ -28,8 +29,12 @@
 ### Backend & Services
 
 ![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Next.js%2014](https://img.shields.io/badge/Next.js_14-334155?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-334155?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248)
+![Prisma%205](https://img.shields.io/badge/Prisma_5-334155?style=flat-square&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1F2937?style=flat-square&logo=zod&logoColor=3E67B1)
 ![Supabase](https://img.shields.io/badge/Supabase-1F2937?style=flat-square&logo=supabase&logoColor=3FCF8E)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-4F46E5?style=flat-square)
 
